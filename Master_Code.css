@@ -5070,18 +5070,6 @@ button.btn.btn-default {
 
 /* Support For Repo Plugins */
 
-.pluginrepo-modal .pluginEntry.downloadable .btn-download, .pluginrepo-modal .pluginEntry.updated .btn-download, .themerepo-modal .themeEntry.downloadable .btn-download, .themerepo-modal .themeEntry.downloadable .btn-download {
-  color: var(--Main-Colour)!important;
-  background-color: Var(--Secondary-Background-Colour)!important;
-  border: 1px Solid var(--Main-Colour)!important;
-}
-
-.pluginrepo-modal .pluginEntry.downloadable .btn-download:hover, .pluginrepo-modal .pluginEntry.updated .btn-download:hover, .themerepo-modal .themeEntry.downloadable .btn-download:hover, .themerepo-modal .themeEntry.updated .btn-download {
-  color: var(--Main-Colour)!important;
-  background-color: Var(--Background-Colour)!important;
-  border: 1px Solid var(--Main-Colour)!important;
-}
-
 /* Support For Repo Plugins */
 
 /* Support For Member Count */
